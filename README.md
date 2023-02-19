@@ -17,7 +17,7 @@
 
 :muscle: Passionate about **`Problem Solving and Development`** <br>
 - Solved 500+ DSA Problems at **[LeetCode](https://leetcode.com/md_hamid/)** with maximum rating of 1562
-- Solved 400+ DSA Problems at **[GeeksForGeeks](https://auth.geeksforgeeks.org/user/md_hamid/)** with 1300+ points
+- Solved 450+ DSA Problems at **[GeeksForGeeks](https://auth.geeksforgeeks.org/user/md_hamid/)** with 1300+ points
 - Solved 350+ DSA Problems at **[Interviewbit](https://www.interviewbit.com/profile/md_hamid)** with global rank under 2500
 
 
