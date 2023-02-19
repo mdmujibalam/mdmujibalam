@@ -13,9 +13,9 @@
 
 👯 I’m looking to collaborate on **Open source Project.**
 
-🚀 Love to talk about **Research and Innovation!**
+🚀 Love to talk about **Creativity and Innovation!**
 
-:muscle: Passionate about **`Poblem Solving and Devlopment`** <br>
+:muscle: Passionate about **`Problem Solving and Development`** <br>
 - Solved 500+ DSA Problems at **[LeetCode](https://leetcode.com/md_hamid/)** with maximum rating of 1562
 - Solved 400+ DSA Problems at **[GeeksForGeeks](https://auth.geeksforgeeks.org/user/md_hamid/)** with 1300+ points
 - Solved 350+ DSA Problems at **[Interviewbit](https://www.interviewbit.com/profile/md_hamid)** with global rank under 2500
