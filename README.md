@@ -16,7 +16,7 @@
 🚀 Love to talk about **Creativity and Innovation!**
 
 :muscle: Passionate about **`Problem Solving and Development`** <br>
-- Currently I am building **FoodFire App** using react from **Namaste React taught by Akshay Saini**
+- Currently I am building **FoodFire App** using react from **Namaste React** taught by Akshay Saini
 - Solved 500+ DSA Problems at **[LeetCode](https://leetcode.com/md_hamid/)** with maximum rating of 1562
 - Solved 450+ DSA Problems at **[GeeksForGeeks](https://auth.geeksforgeeks.org/user/md_hamid/)** with 1300+ points
 - Solved 350+ DSA Problems at **[Interviewbit](https://www.interviewbit.com/profile/md_hamid)** with global rank under 2500
@@ -30,17 +30,4 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmujibalam/)
 
 
-<!--
-**anandkr1011/anandkr1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
