@@ -7,8 +7,6 @@
   A passionate Frontend Developer 
 </p>
 
-
-<img src="https://media.licdn.com/dms/image/C5616AQEnF0hyYk8TwQ/profile-displaybackgroundimage-shrink_350_1400/0/1602312023475?e=1681948800&v=beta&t=sKLmKTRi-xK7ZKcAVyIYEr9nPNZlDrtcxPG0N34RxTQ" alt="Header"/>
 <br/>
 
 👯 I’m currently looking to enhance my  **Frontend Skill.**
