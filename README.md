@@ -8,7 +8,7 @@
 
 <br/>
 
-**Food Villa App** 
+**Food Plaza App** 
 - Recently I have developed a food delivery app similar to Swiggy & integrated its live APIs to update content on UI dynamically
 - Customers can search their favourite food items based on cuisines and restaurants
 - Shimmer effect has been used for visually appealing loading effect during data retrieval from API
