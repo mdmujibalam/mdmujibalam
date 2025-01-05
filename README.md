@@ -1,9 +1,9 @@
 <h1 align='center'>
- 👋 I'm Md Mujib Alam 👨‍💻
+ 👋 Hi, I'm Md Mujib Alam 👨‍💻
 </h1>
 
 <p align='center'>
-  I am currently working as an Analyst in KPMG India as a frontend developer proficient in both Flutter & React
+  Currently working as an Analyst in KPMG India as a frontend developer proficient in both Flutter & React
 </p>
 
 <br/>
