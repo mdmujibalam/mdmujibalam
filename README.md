@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A passionate Frontend Developer proficient in both Flutter and React
+  I am currently working as an Analyst in KPMG India as a frontend developer proficient in both Flutter & React
 </p>
 
 <br/>
