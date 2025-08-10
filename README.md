@@ -5,14 +5,15 @@ I'm a passionate Frontend Developer with a strong foundation in building scalabl
 ## 🚀 Experience
 
 - **Technology Analyst, KPMG India (Sep 2023 – Present)**
-  - Built comprehensive web applications for healthcare and job portals, leveraging React.js for robust, interactive UIs.
-  - Developed reusable components from Figma designs, ensuring consistency and reducing development time by 20%.
-  - Implemented efficient state management using Redux and React Query, and optimized API interactions with Axios.
-  - Enhanced performance by 30% through advanced memoization and lazy loading techniques.
+  - Developed and optimized multiple modules for mSeva Punjab on UPYOG’s open-source platform, delivering municipal services across 160+ Urban Local Bodies and impacting 27M+ citizens
+  - Designed a unified application interface catering to citizens, counter staff, and employees at multiple approval hierarchies, streamlining workflows and service delivery
+  - Enhanced scalability and performance for thousands of users through advanced React optimization (lazy loading, memoization via useMemo, useCallback, and React.memo)
+  - Collaborated closely with cross-functional Agile teams, quickly iterating based on stakeholder feedback to meet evolving project requirements
 
 - **Technology Analyst Intern, KPMG India (Apr 2023 – Aug 2023)**
-  - Developed responsive web screens and improved component structure, increasing development efficiency by 20%.
-  - Integrated Redux Toolkit for state management and optimized API requests, reducing UI latency by 30%.
+  - Built comprehensive web applications for healthcare (Medical Disbursement portal) and job portals, leveraging React.js for robust, reusable UIs
+  - Created scalable components directly from wireframes and Figma designs, reducing development time by 20%
+  - Implemented state management using Redux Toolkit, robust form validation, and seamless API integrations with Axios for smooth user experiences
 
 ## 💻 Projects
 
