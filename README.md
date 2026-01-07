@@ -44,7 +44,7 @@ I'm a passionate Frontend Developer with a strong foundation in building scalabl
 
 ## 📫 Let's Connect
 
-- Email: mujibalam2000@gmail.com
+- Email: mdmujibalam2000@gmail.com
 - [LinkedIn](https://linkedin.com/in/mdmujibalam)
 - [GitHub](https://github.com/mdmujibalam)
 
