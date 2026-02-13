@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Mujib Alam
 
-I'm a passionate Frontend Developer with a strong foundation in building scalable and user-friendly web applications. Currently, I work as a Technology Analyst at KPMG India, where I specialize in crafting seamless digital experiences using React.js and modern frontend technologies.
+I am a frontend developer with overall 3 years of professional experience building high-performance, responsive web applications using React.js, Redux, and React Query, currently working as Technology Analyst at KPMG India. Skilled in translating Figma and wireframes into pixel-perfect, reusable UI components, implementing complex form flows with React Hook Form, and integrating RESTful APIs for real-time, data-driven experiences. Strong focus on performance optimization using lazy loading, code splitting, and memoization, ensuring smooth UX at scale across municipal and consumer-facing platforms. Proficient in Tailwind CSS, Material UI, and modern JavaScript, with solid foundations in data structures and algorithms
 
 ## 🚀 Experience
 
